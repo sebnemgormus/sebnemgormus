@@ -6,8 +6,6 @@ Hi 👋 My name is Şebnem
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [sebnemgormus@gmail.com](mailto:sebnemgormus@gmail.com)
-* 🧠  I am currently working on enhancing my knowledge of React.js
-* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
